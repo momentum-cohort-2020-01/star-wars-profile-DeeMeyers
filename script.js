@@ -1,3 +1,7 @@
+//i ran out of time to add the tc styling. the plan was to change the appended
+//elements and and appended class to make it fit the tc profile card 
+
+
 let mando
 const dataSet = document.querySelector("#character")
 fetch ('https://swapi.co/api/people/22/')
